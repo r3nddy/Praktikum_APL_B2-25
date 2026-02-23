@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++ Build and Run",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "echo [1/2] Compiling ${fileBasename} (C++17)... && C:\\ProgramData\\mingw64\\mingw64\\bin\\g++.exe -g -std=c++17 \"${file}\" -o \"${fileDirname}\\${fileBasenameNoExtension}.exe\" && echo [2/2] Running... && echo. && \"${fileDirname}\\${fileBasenameNoExtension}.exe\""
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true,
+        "clear": true,
+        "showReuseMessage": false,
+        "echo": false
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
