@@ -2,7 +2,6 @@
 *.o
 *.obj
 *.out
-*.exe
 *.app
 *.so
 *.dll
@@ -15,14 +14,6 @@
 x64/
 x86/
 
-# --- CMake ---
-CMakeCache.txt
-CMakeFiles/
-CMakeScripts/
-cmake_install.cmake
-install_manifest.txt
-Makefile
-_deps/
 
 # --- Visual Studio ---
 .vs/
@@ -30,12 +21,6 @@ _deps/
 *.userosscache
 *.sln.docstates
 *.suo
-
-# --- VS Code ---
-.vscode/
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
 
 # --- CLion / JetBrains ---
 .idea/
