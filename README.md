@@ -14,11 +14,11 @@ Repositori ini berisi kumpulan tugas mata kuliah Algoritma dan Pemrograman Lanju
 
 ## 📂 Struktur Folder Kelas
 
-| Folder        | Deskripsi        |
-| :------------ | :--------------- |
-| `Pertemuan-1` | [Pengenalan C++] |
-| `Pertemuan-2` | []               |
-| `Pertemuan-3` | []               |
+| Folder        | Deskripsi           |
+| :------------ | :------------------ |
+| `Pertemuan-1` | [Pengenalan C++]    |
+| `Pertemuan-2` | [array & struct]    |
+| `Pertemuan-3` | [Fungsi & Prosedur] |
 
 <br>
 
