@@ -126,9 +126,15 @@ void displayDataLogistik(Logistik logistik[], int jumlahLogistik) {
 // ==== Auth ====
 
 void displayMenuAuth() {
-    cout << "   [1] Login Akun" << endl;
-    cout << "   [2] Registrasi" << endl;
-    cout << "   [3] Keluar" << endl;
+    cout << ABU_REDUP << "\n\n=========================================================" << endl;
+    cout << EMAS   <<    "|           SISTEM LOGISTIK MINERAL PERTAMBANGAN        |" << endl;
+    cout << ABU_REDUP << "=========================================================" << endl;
+    cout << PUTIH  <<    "| No | Autentikasi                                      |" << endl;
+    cout << ABU_TERANG <<"|----|--------------------------------------------------|" << endl;
+    cout << PUTIH  <<    "| 1. | Login Akun                                       |" << endl;
+    cout << PUTIH  <<    "| 2. | Register Akun Baru                               |" << endl;
+    cout << PUTIH  <<    "| 3. | Keluar Program                                   |" << endl;
+    cout << ABU_REDUP << "=========================================================" << RESET << endl;
 }
 
 // validasi input
