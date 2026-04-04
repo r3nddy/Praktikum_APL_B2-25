@@ -19,6 +19,7 @@ Repositori ini berisi kumpulan tugas mata kuliah Algoritma dan Pemrograman Lanju
 | `Pertemuan-1` | [Pengenalan C++]    |
 | `Pertemuan-2` | [array & struct]    |
 | `Pertemuan-3` | [Fungsi & Prosedur] |
+| `Pertemuan-4` | [Pointer]           |
 
 <br>
 
