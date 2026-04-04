@@ -8,15 +8,16 @@ int main() {
 
 
     // variabel & getline()
-    // string nama;
-    // cout << "Masukkan Nama: ";
-    // getline(cin, nama);
+    string nama;
+    cout << "Masukkan Nama: ";
+    getline(cin, nama);
     
-    // cout << "nama : " << nama << endl;
+    cout << "nama : " << nama << endl;
     
     
     // percabangan
     bool mengantuk = true;
+    
     if (mengantuk) {
         cout << "Saya tidur" << endl;
     } else if (mengantuk) {
