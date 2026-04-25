@@ -1,0 +1,86 @@
+[
+    {
+        "asal": {
+            "asalTambang": "Kalimantan"
+        },
+        "idLogistik": 1,
+        "mineral": {
+            "jenisMineral": "Bituminous",
+            "kuantitas": 1200.0,
+            "namaMineral": "Batu Bara",
+            "satuan": "ton"
+        },
+        "status": "Delivered",
+        "tanggal": "10-02-2025"
+    },
+    {
+        "asal": {
+            "asalTambang": "Papua"
+        },
+        "idLogistik": 2,
+        "mineral": {
+            "jenisMineral": "Aluvial",
+            "kuantitas": 85.5,
+            "namaMineral": "Emas",
+            "satuan": "kg"
+        },
+        "status": "Shipped",
+        "tanggal": "25-03-2025"
+    },
+    {
+        "asal": {
+            "asalTambang": "Sulawesi"
+        },
+        "idLogistik": 3,
+        "mineral": {
+            "jenisMineral": "Laterit",
+            "kuantitas": 3400.0,
+            "namaMineral": "Nikel",
+            "satuan": "ton"
+        },
+        "status": "Pending",
+        "tanggal": "05-01-2025"
+    },
+    {
+        "asal": {
+            "asalTambang": "Bangka Belitung"
+        },
+        "idLogistik": 4,
+        "mineral": {
+            "jenisMineral": "Kasiterit",
+            "kuantitas": 750.0,
+            "namaMineral": "Timah",
+            "satuan": "ton"
+        },
+        "status": "Delivered",
+        "tanggal": "18-04-2025"
+    },
+    {
+        "asal": {
+            "asalTambang": "Nusa Tenggara"
+        },
+        "idLogistik": 5,
+        "mineral": {
+            "jenisMineral": "Porfiri",
+            "kuantitas": 2100.0,
+            "namaMineral": "Copper",
+            "satuan": "ton"
+        },
+        "status": "Shipped",
+        "tanggal": "12-06-2025"
+    },
+    {
+        "asal": {
+            "asalTambang": "Bontang"
+        },
+        "idLogistik": 6,
+        "mineral": {
+            "jenisMineral": "LNG",
+            "kuantitas": 125.0,
+            "namaMineral": "Gas Alam",
+            "satuan": "MMBTU"
+        },
+        "status": "Shipped",
+        "tanggal": "08-08-2008"
+    }
+]
